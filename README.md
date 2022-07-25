@@ -14,7 +14,8 @@ Sou o Mateus, tenho 23 anos, sou de Lavras Minas Gerais e estou iniciando uma no
 
 # PROJETOS
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matdsouza&repo=matdsouza.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matdsouza&repo=matdsouza.github.io)](https://github.com/
+matdsouza.github.io)
 
 #CONTATOS
 

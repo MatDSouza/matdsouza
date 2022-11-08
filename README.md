@@ -2,7 +2,7 @@
 
 # BIOGRAFIA
 
-Sou o Mateus, tenho 23 anos, sou de Lavras Minas Gerais e estou iniciando uma nova jornada na área de tecnologia, meu primeiro passo está sendo a realização do curso de ánalise e desenvolvimento de sistemas pela UNINTER,já tive meu primeiro contato com programação sendo elas python, html e CSS . Acredito ter um bom inglês, tenho certa facilidade. Gosto de interagir e de estar sempre antenado com as atualizações nesse ramo de tecnologia, além tenho hobby em jogos, astronomia, música e culturas ásiaticas.
+Sou o Mateus, tenho 23 anos, sou de Lavras Minas Gerais e estou iniciando uma nova jornada na área de tecnologia, meu primeiro passo está sendo a realização do curso de ánalise e desenvolvimento de sistemas pela UNINTER,já tive meu primeiro contato com programação sendo elas python, html, javascript e CSS . Acredito ter um bom inglês, tenho certa facilidade. Gosto de interagir e de estar sempre antenado com as atualizações nesse ramo de tecnologia, além tenho hobby em jogos, astronomia, música e culturas ásiaticas.
 
 # APRENDENDO
 

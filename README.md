@@ -15,7 +15,7 @@ Sou o Mateus, tenho 23 anos, sou de Lavras Minas Gerais e estou iniciando uma no
 # PROJETOS
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matdsouza&repo=matdsouza.github.io)](https://github.com/MatDSouza/matdsouza.github.io)
-[![Readme Card]] (https://github.com/MatDSouza/nlw-10-copa)
+(https://github.com/MatDSouza/nlw-10-copa)
 
 #CONTATOS
 

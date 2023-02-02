@@ -20,6 +20,8 @@ Sou o Mateus sou da cidade Lavras Minas Gerais e estou iniciando uma nova jornad
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matdsouza&repo=De-volta-pro-futuro)](https://github.com/MatDSouza/De-volta-pro-futuro)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matdsouza&repo=Snapclima)](https://github.com/MatDSouza/Snapclima)
+
 #CONTATOS
 
 [<img src= 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/mateus-souza-870627246/)

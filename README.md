@@ -27,4 +27,4 @@ Sou o Mateus sou da cidade Lavras Minas Gerais e estou iniciando uma nova jornad
 
 [<img src= 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/mateus-souza-870627246/)
 
-[<img src= 'https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>] (https://www.instagram.com/_matt_souza/)
+[<img src= 'https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/_matt_souza/)

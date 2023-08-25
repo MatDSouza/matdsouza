@@ -10,6 +10,11 @@ Sou o Mateus sou da cidade Lavras Minas Gerais e estou iniciando uma nova jornad
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matdsouza&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -27,6 +27,8 @@ Sou o Mateus sou da cidade Lavras Minas Gerais e estou iniciando uma nova jornad
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matdsouza&repo=Ping-Pong)](https://github.com/MatDSouza/Ping-Pong))
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matdsouza&repo=Pokedex)](https://github.com/MatDSouza/Listagem-Pokemon)
+
 # CONTATOS
 
 [<img src= 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/mateus-souza-870627246/)

@@ -4,6 +4,10 @@
 
 Sou o Mateus sou da cidade Lavras Minas Gerais e estou iniciando uma nova jornada na área de tecnologia, meu primeiro passo está sendo a realização do curso de ánalise e desenvolvimento de sistemas pela UNINTER,já tive meu primeiro contato com programação sendo elas python, html, javascript e CSS . Acredito ter um bom inglês, tenho certa facilidade. Gosto de interagir e de estar sempre antenado com as atualizações nesse ramo de tecnologia, além tenho hobby em jogos, astronomia, música e culturas ásiaticas.
 
+## Conecte-se comigo
+![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mateus-souza-870627246/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/_matt_souza/)
+
 # APRENDENDO
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

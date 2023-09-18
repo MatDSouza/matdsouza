@@ -39,7 +39,7 @@ Sou o Mateus sou da cidade Lavras Minas Gerais e estou iniciando uma nova jornad
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matdsouza&repo=Listagem-Pokemon)](https://github.com/MatDSouza/Listagem-Pokemon)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matdsouza&repo=matdsouza.github.io)](https://github.com/MatDSouza/Gerador-de-senha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matdsouza&repo=Gerador-de-senha)](https://github.com/MatDSouza/Gerador-de-senha)
 
 # CONTATOS
 

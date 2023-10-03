@@ -2,7 +2,15 @@
 
 # BIOGRAFIA
 
-Sou o Mateus sou da cidade Lavras Minas Gerais e estou iniciando uma nova jornada na área de tecnologia, meu primeiro passo está sendo a realização do curso de ánalise e desenvolvimento de sistemas pela UNINTER,já tive meu primeiro contato com programação sendo elas python, html, javascript e CSS . Acredito ter um bom inglês, tenho certa facilidade. Gosto de interagir e de estar sempre antenado com as atualizações nesse ramo de tecnologia, além tenho hobby em jogos, astronomia, música e culturas ásiaticas.
+Olá, sou Mateus de Souza, estudante de análise e desenvolvimento de sistemas. 
+
+Tenho me desenvolvido como programador jr, com experiência em HTML, javascript, CSS e python e familiaridade em segurança da informação e outra linguagens ligadas ao Backend e orientadas a objetos. 
+
+Durante meus estudos em análise e desenvolvimento de sistemas tive a oportunidade de me aprofundar em tópicos avançados de programação. Além disso participo de conferências e workshops na área de tecnologia afim de me manter sempre atualizado do mercado e novidades.
+
+Para manter minha curiosidade sempre alta, continuo buscando conhecimento em novas linguagens, metodologias e frameworks dentro da tecnologia. Atualmente, estou aprofundando meus conhecimentos em React, node, java e Cloud utilizando as plataformas DIO e DevSamurai.
+
+Meus colegas costumam me descrever como criativo, otimista e com ótima inteligência emocional. Estou sempre buscando oportunidades de crescer profissionalmente, aplicar meus conhecimentos e contribuir para o desenvolvimento de soluções tecnológicas inovadoras. Caso esteja interessado em discutir alguma vaga de emprego comigo, esteja à vontade para entrar em contato comigo.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mateus-souza-870627246/)

@@ -2,15 +2,31 @@
 
 # BIOGRAFIA
 
-Olá, sou Mateus de Souza, estudante de análise e desenvolvimento de sistemas. 
+Apaixonado por tecnologia, venho trilhando uma jornada que conecta desenvolvimento de software, infraestrutura de TI, DevOps e Cybersecurity. Com base sólida em front-end e back-end, estou me especializando em práticas modernas de automação, segurança da informação e entrega contínua de aplicações seguras e escaláveis.
 
-Tenho me desenvolvido como programador jr, com experiência em HTML, javascript, CSS e python e familiaridade em segurança da informação e outra linguagens ligadas ao Backend e orientadas a objetos. 
+Minha trajetória começou na infraestrutura, onde desenvolvi uma visão técnica robusta sobre sistemas, redes e segurança, o que hoje complementa minha formação como desenvolvedor full stack e fortalece minha atuação em ambientes ágeis e complexos.
 
-Durante meus estudos em análise e desenvolvimento de sistemas tive a oportunidade de me aprofundar em tópicos avançados de programação. Além disso participo de conferências e workshops na área de tecnologia afim de me manter sempre atualizado do mercado e novidades.
+🎓 Atualmente, estou cursando o MBA Full Stack Developer pela Rocketseat, além de me aprofundar em DevSecOps, pipelines CI/CD, cloud computing e boas práticas de segurança cibernética para ambientes em produção.
 
-Para manter minha curiosidade sempre alta, continuo buscando conhecimento em novas linguagens, metodologias e frameworks dentro da tecnologia. Atualmente, estou aprofundando meus conhecimentos em React, node, java e Cloud utilizando as plataformas DIO e DevSamurai.
+🔗 Confira meus projetos no GitHub:
+👉https://github.com/MatDSouza
 
-Meus colegas costumam me descrever como criativo, otimista e com ótima inteligência emocional. Estou sempre buscando oportunidades de crescer profissionalmente, aplicar meus conhecimentos e contribuir para o desenvolvimento de soluções tecnológicas inovadoras. Caso esteja interessado em discutir alguma vaga de emprego comigo, esteja à vontade para entrar em contato comigo.
+⚙️ Stack & Competências Técnicas:
+Linguagens: JavaScript, HTML, CSS, Python
+
+Frameworks & Ferramentas: React.js, Node.js, Git/GitHub, Docker (básico)
+
+Banco de dados: SQL (MongoDB - básico)
+
+DevOps & Infraestrutura: Fundamentos em Cloud (Azure, AWS), versionamento, automação, pipelines
+
+Cybersegurança: Hardening, OWASP Top 10, segurança em APIs e aplicações web
+
+🚀 Diferenciais:
+✅ Background técnico completo: Infraestrutura + Desenvolvimento + Segurança
+✅ Foco total em Cybersecurity e DevOps aplicados ao ciclo de vida do software
+✅ Mentalidade de automação, segurança desde o desenvolvimento (DevSecOps)
+✅ Colaboração, aprendizado contínuo e paixão por resolver problemas reais
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mateus-souza-870627246/)
@@ -22,8 +38,7 @@ Meus colegas costumam me descrever como criativo, otimista e com ótima intelig�
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 
 
